@@ -1,0 +1,28 @@
+<svg width="1440" height="1070" viewBox="0 0 1440 1070" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="71.0566" y="278.379" width="402.065" height="576.875" fill="url(#pattern0)"/>
+<rect x="184.864" y="400.822" width="187.741" height="165.174" fill="url(#pattern1)"/>
+<rect x="184.864" y="566.817" width="222.631" height="167.639" fill="url(#pattern2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M803.678 308.354L803.021 290.172L913.298 286.201L909.317 395.289L890.903 394.639L893.73 318.432L756.397 454.285L696.793 395.289L572.844 517.903L510.056 455.826L412.239 552.622L399.225 539.782L510.056 430.111L572.844 492.223L696.793 369.575L756.397 428.571L880.785 305.555L803.678 308.354Z" fill="white" fill-opacity="0.06"/>
+<path d="M511.648 491.367L445.26 557.039L446.368 558.1L512.721 492.428L511.648 491.367Z" fill="white" fill-opacity="0.06"/>
+<path d="M654.012 387.928L581.843 459.318L582.951 460.379L655.119 388.989L654.012 387.928Z" fill="white" fill-opacity="0.06"/>
+<path d="M826.177 323.728L752.417 396.727L753.489 397.789L827.285 324.789L826.177 323.728Z" fill="white" fill-opacity="0.06"/>
+<path d="M826.523 413.471L710.742 528.004L711.815 529.099L827.63 414.532L826.523 413.471Z" fill="white" fill-opacity="0.06"/>
+<path d="M693.92 454.559L663.668 484.484L664.741 485.58L694.993 455.654L693.92 454.559Z" fill="white" fill-opacity="0.06"/>
+<path d="M498.218 416.073L436.78 476.883L437.853 477.945L499.326 417.134L498.218 416.073Z" fill="white" fill-opacity="0.06"/>
+<path d="M668.722 335.986L602.681 401.281L603.788 402.377L669.795 337.081L668.722 335.986Z" fill="white" fill-opacity="0.06"/>
+<path d="M382.923 528.083C396.284 509.423 404.175 486.687 404.175 462.137C404.175 403.416 359.178 354.932 301.513 348.563V290.698H249.213V347.844H213.63V290.663H161.33V347.81H72.2358V412.489H134.47V675.692H72.2358V740.371H161.33V797.518H213.63V740.371H249.213V797.518H301.513V740.371H323.492C387.215 740.371 439.031 689.08 439.031 626.078C439.065 584.511 416.532 548.08 382.923 528.083ZM288.637 412.489C316.293 412.489 338.826 434.745 338.826 462.137C338.826 489.495 316.327 511.785 288.637 511.785H199.82V412.524H288.637V412.489ZM323.527 675.692H199.82V576.43H288.637H323.492C351.148 576.43 373.681 598.686 373.681 626.078C373.681 653.436 351.183 675.692 323.527 675.692Z" fill="white" fill-opacity="0.06"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAegAAALECAYAAADD1qPcAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOkAAADMCAYAAACWVoRmAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAADQCAYAAAAkooUWAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+</defs>
+</svg>
